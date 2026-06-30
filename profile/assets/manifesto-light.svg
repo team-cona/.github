@@ -10,10 +10,8 @@
       <stop offset="1" stop-color="#0d1b2a" stop-opacity="0.9"/>
     </linearGradient>
   </defs>
-
   <rect width="820" height="520" rx="14" fill="url(#bgL)"/>
   <rect x="0.5" y="0.5" width="819" height="519" rx="14" fill="none" stroke="#d4dde7" stroke-width="1"/>
-
   <!-- blueprint grid -->
   <g stroke="#e3eaf1" stroke-width="1">
     <line x1="0" y1="130" x2="820" y2="130"/>
@@ -23,17 +21,14 @@
     <line x1="0" y1="352" x2="820" y2="352"/>
     <line x1="0" y1="406" x2="820" y2="406"/>
   </g>
-
   <!-- eyebrow -->
   <text x="56" y="58" fill="#3f7cae" font-size="13" letter-spacing="6" font-weight="600">MANIFESTO</text>
   <text x="764" y="58" fill="#a6b6c6" font-size="13" letter-spacing="2" text-anchor="end">CONA</text>
-
   <!-- epigraph -->
   <text x="56" y="100" font-size="38" font-weight="700" letter-spacing="0.5">
-    <tspan fill="#d98a04">C</tspan><tspan fill="#16273a">lear, </tspan><tspan fill="#d98a04">O</tspan><tspan fill="#16273a">r </tspan><tspan fill="#d98a04">N</tspan><tspan fill="#16273a">ot at </tspan><tspan fill="#d98a04">A</tspan><tspan fill="#16273a">ll.</tspan>
+    <tspan fill="#d98a04">C</tspan><tspan fill="#16273a">ommit, </tspan><tspan fill="#d98a04">O</tspan><tspan fill="#16273a">r </tspan><tspan fill="#d98a04">N</tspan><tspan fill="#16273a">ot at </tspan><tspan fill="#d98a04">A</tspan><tspan fill="#16273a">ll.</tspan>
   </text>
-  <text x="58" y="124" font-size="15" font-style="italic" fill="#647689">Done, not just tried.</text>
-
+  <text x="58" y="124" font-size="15" font-style="italic" fill="#647689">No trying. Just doing.</text>
   <!-- creeds -->
   <g font-size="16" fill="#36475a">
     <text x="56" y="175">Read the <tspan fill="#c47e04" font-weight="600">context</tspan>, speak my <tspan fill="#c47e04" font-weight="600">own thoughts</tspan> — not the keywords.</text>
@@ -43,7 +38,6 @@
     <text x="56" y="391">Use tools to <tspan fill="#c47e04" font-weight="600">grow</tspan>, not to hide behind.</text>
     <text x="56" y="445">Turn <tspan fill="#c47e04" font-weight="600">knowledge</tspan> into <tspan fill="#c47e04" font-weight="600">wisdom</tspan>, and pass it on.</text>
   </g>
-
   <!-- closing -->
   <rect x="56" y="474" width="708" height="2" fill="url(#fadeL)"/>
   <text x="764" y="498" fill="#54677c" font-size="13.5" font-style="italic" text-anchor="end">make it clear, then make it real.</text>
